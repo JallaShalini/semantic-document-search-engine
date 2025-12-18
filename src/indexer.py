@@ -1,8 +1,8 @@
 import json, time
 import numpy as np
-from config import *
-from document_loader import load_documents
-from embedder import Embedder
+from src.config import *
+from src.document_loader import load_documents
+from src.embedder import Embedder
 
 def build_index():
     start = time.time()

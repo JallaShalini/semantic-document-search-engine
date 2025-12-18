@@ -1,0 +1,6 @@
+{
+  "doc_count": 100,
+  "dimension": 384,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "created_at": "Thu Dec 18 22:12:47 2025"
+}
